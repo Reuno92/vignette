@@ -1,0 +1,16 @@
+html {
+    font-size:62.5%;
+}
+
+.word {
+    display:inline-block;
+    padding:.5rem;
+    background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 51%,rgba(246,246,246,1) 100%);
+    border-radius:1rem;
+    border:1px solid #acacac;
+}
+
+.dropzone {
+    display:inline-block;
+    padding:0 5px 0 5px ;
+}
